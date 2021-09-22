@@ -6,9 +6,9 @@
 
 Event+ An AWS Based Event Recommendation Web Service
 
-Analyzed multiple recommendation systems and designed a user-based & content-based algorithm for event recommendation based on users’ location and saved favorite events 
-
 [See Project](http://18.191.160.215/Jupiter)
+
+Analyzed multiple recommendation systems and designed a user-based & content-based algorithm for event recommendation based on users’ location and saved favorite events 
 
 - Designed an interactive web application for users to search for local events (HTML, CSS, JavaScript, AJAX)
 - Implemented RESTful APIs using Java Servlets to handle HTTP requests and responses
