@@ -4,7 +4,7 @@
 
 ### PROJECTS
 
-[Event+ An AWS Based Event Recommendation Web Service](/sample_page)
+[Event+ An AWS Based Event Recommendation Web Service](http://18.191.160.215/Jupiter)
 <img src="https://43pmym3mgkd444bgoi2civub-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/autumn-leaves-scaled.jpg"/>
 
 ---
