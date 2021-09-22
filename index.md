@@ -7,6 +7,7 @@
 Event+ 
 
 An AWS Based Event Recommendation Web Service
+
 [See Project](http://18.191.160.215/Jupiter)
 
 Analyzed multiple recommendation systems and designed a user-based & content-based algorithm for event recommendation based on users’ location and saved favorite events
