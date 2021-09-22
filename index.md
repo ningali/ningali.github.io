@@ -10,10 +10,13 @@ Event+ An AWS Based Event Recommendation Web Service
 
 Analyzed multiple recommendation systems and designed a user-based & content-based algorithm for event recommendation based on users’ location and saved favorite events
 
-- Developed java servlets with Restful API to handle HTTP request and responses
-- Retrieved event information with TicketMaster API for key word extraction from event descriptions
-- Transformed and stored the event info (event name, date, location, etc) into MySQL database and deployed it to Amazon RDS for scalability and simplicity
-- Deployed to Amazon EC2 for better performance
+Front End:
+•	Designed an interactive web application for users to search for local events (HTML, CSS, JavaScript, AJAX)
+Back End:
+•	Implemented RESTful APIs using Java Servlets to handle HTTP requests and responses
+•	Built MySQL database from TicketMaster API to retrieve event information
+•	Designed algorithms (e.g., content-based recommendation) based on geo-location to implement event recommendation 
+•	Deployed the Apache Tomcat web service to AWS EC2 VM for better performance
 <img src="https://43pmym3mgkd444bgoi2civub-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/autumn-leaves-scaled.jpg"/>
 
 ---
@@ -26,7 +29,7 @@ Analyzed multiple recommendation systems and designed a user-based & content-bas
 
 ---
 
-### Category Name 2
+### WORK EXPERIENCE
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
