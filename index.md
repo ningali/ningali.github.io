@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### PROJECTS
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Event+ An AWS Based Event Recommendation Web Service](/sample_page)
+<img src="https://43pmym3mgkd444bgoi2civub-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/autumn-leaves-scaled.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
