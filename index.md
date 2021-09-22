@@ -5,6 +5,7 @@
 ### PROJECTS
 
 [Event+ An AWS Based Event Recommendation Web Service](http://18.191.160.215/Jupiter)
+
 Analyzed multiple recommendation systems and designed a user-based & content-based algorithm for event recommendation based on users’ location and saved favorite events
 
 - Developed java servlets with Restful API to handle HTTP request and responses
