@@ -4,9 +4,7 @@
 
 ### PROJECTS
 
-Event+ 
-
-An AWS Based Event Recommendation Web Service
+Event+ An AWS Based Event Recommendation Web Service
 
 [See Project](http://18.191.160.215/Jupiter)
 
