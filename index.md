@@ -18,8 +18,16 @@ Analyzed multiple recommendation systems and designed a user-based & content-bas
 <img src="https://43pmym3mgkd444bgoi2civub-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/autumn-leaves-scaled.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Around A Geo-index Based Social Network
+
+•	Built a scalable web service in Go to handle posts and deployed to Google Cloud (GAE flex) for better scaling
+•	Utilized ElasticSearch (GCE) to provide geo-location based search functions such that users can search nearby posts within a distance (e.g. 200km)
+•	Used Google Dataflow to implement a daily dump of posts to BigQuery table for offline analysis
+•	Aggregated the data at the post level and user level to improve the keyword based spam detection (BigQuery)
+
+[See Project](https://recordit.co/awrQb1zn2I)
+
+<img src="https://www.incimages.com/uploaded_files/image/1920x1080/social-networking-184313840_384936.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
