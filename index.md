@@ -27,7 +27,7 @@ Around A Geo-index Based Social Network
 
 [See Project](https://recordit.co/awrQb1zn2I)
 
-<img src="https://www.incimages.com/uploaded_files/image/1920x1080/social-networking-184313840_384936.jpg"/>
+<img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/lbsn-lbsn-image.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
