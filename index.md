@@ -4,6 +4,17 @@
 
 ### PROJECTS
 
+Amazon+ Spring and Hibernate based Shopping & Ordering System 
+
+- Built an Apache Tomcat web application based on Spring MVC to handle HTTP requests such as item search, listing (dependency injection, inversion of control, REST API etc.)
+- Implemented User Authentication System via in-memory and JDBC authentication provided by Spring Security
+- Used Hibernate to manipulate data by mapping Java classes/data types to MySQL entities/data types
+
+[See Project](http://example.com/)
+<img src="https://images-na.ssl-images-amazon.com/images/I/31yLgn55rBL.png"/>
+
+---
+
 Event+ An AWS Based Event Recommendation Web Service
 
 [See Project](http://18.191.160.215/Jupiter)
@@ -28,10 +39,6 @@ Around A Geo-index Based Social Network
 [See Project](https://recordit.co/awrQb1zn2I)
 
 <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/lbsn-lbsn-image.jpg"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
