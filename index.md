@@ -11,7 +11,7 @@ Amazon+ Spring and Hibernate based Shopping & Ordering System
 - Used Hibernate to manipulate data by mapping Java classes/data types to MySQL entities/data types
 
 [See Project](http://example.com/)
-<img src="https://media.istockphoto.com/vectors/shopping-cart-icon-isolated-on-white-background-vector-id1206806317?k=20&m=1206806317&s=170667a&w=0&h=kEh5VLsTHukWc7xf2BvUs8ssqS_d7vkK0-xU3MDpO7s="/>
+<img src="https://media.istockphoto.com/vectors/funny-trolley-filled-with-shopping-items-vector-id945037484?k=20&m=945037484&s=612x612&w=0&h=1G-sKXxhb_kHGeiU4mGKxOBMpXMApOuPi7chixBt8Q8="/>
 
 ---
 
